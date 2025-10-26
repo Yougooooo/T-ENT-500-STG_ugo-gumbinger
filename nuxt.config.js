@@ -16,17 +16,18 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/nuage.png' }
       ],
       htmlAttrs: {
-        class: 'text-base' // Force la taille de base à 16px via Tailwind
+        lang: 'fr',
+        style: 'font-size: 16px;'
       },
       bodyAttrs: {
-        class: 'antialiased' // Améliore le rendu des polices
+        class: 'antialiased',
+        style: 'font-size: 1rem;'
       }
     }
   },
 
   runtimeConfig: {
     public: {
-      // Variables publiques EmailJS (accessibles côté client)
       emailjsServiceId: process.env.NUXT_PUBLIC_EMAILJS_SERVICE_ID,
       emailjsTemplateId: process.env.NUXT_PUBLIC_EMAILJS_TEMPLATE_ID,
       emailjsPublicKey: process.env.NUXT_PUBLIC_EMAILJS_PUBLIC_KEY,
