@@ -22,7 +22,7 @@ export const skillCategories = [
       { name: 'Nuxt.js', icon: '/images/icons/Frameworks&Bibliothèques/Nuxt JS.png' },
       { name: 'TailwindCSS', icon: '/images/icons/Frameworks&Bibliothèques/Tailwind CSS.png' },
       { name: 'Matplotlib', icon: '/images/icons/Frameworks&Bibliothèques/Matplotlib.png' },
-      { name: 'NumPy', icon: '/images/icons/Frameworks&Bibliothèques/Numpy.png' },
+      { name: 'NumPy', icon: '/images/icons/Frameworks&Bibliothèques/NumPy.png' },
       { name: 'Materialize', icon: '/images/icons/Frameworks&Bibliothèques/Materialize.png' },
       { name: 'SQLAlchemy', icon: '/images/icons/Frameworks&Bibliothèques/SQLAlchemy.png' },
     ]
@@ -46,9 +46,9 @@ export const skillCategories = [
       { name: 'VS Code', icon: '/images/icons/Outils&IDE/VS.png' },
       { name: 'IntelliJ IDEA', icon: '/images/icons/Outils&IDE/IntelliJ IDEA.png' },
       { name: 'CLion', icon: '/images/icons/Outils&IDE/CLion.png' },
-      { name: 'Pycharm', icon: '/images/icons/Outils&IDE/Pycharm.png' },
+      { name: 'PyCharm', icon: '/images/icons/Outils&IDE/PyCharm.png' },
       { name: 'DBeaver', icon: '/images/icons/Outils&IDE/DBeaver.png' },
-      { name: 'Rstudio', icon: '/images/icons/Outils&IDE/Rstudio.png' },
+      { name: 'RStudio', icon: '/images/icons/Outils&IDE/RStudio.png' },
       { name: 'Markdown', icon: '/images/icons/Outils&IDE/Markdown.png' },
     ]
   }
