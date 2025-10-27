@@ -54,7 +54,6 @@
                   {{ project.detailedDescription }}
                 </p>
               </div>
-              <!--
               <div class="flex gap-4 flex-wrap">
                 <a 
                   v-if="project.github" 
@@ -65,7 +64,6 @@
                   Voir sur GitHub
                 </a>
               </div>
-              -->
             </div>
             
 

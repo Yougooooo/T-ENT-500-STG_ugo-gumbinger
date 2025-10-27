@@ -49,7 +49,7 @@ export const projects = [
     description: "Réalisation d'un Jobboard",
     image: "/images/GoJob.png",
     technologies: ["Vue.js", "TailwindCSS", "Flask", "MySQL"],
-    //github: "https://github.com/votre-username/go-job",
+    github: "https://github.com/Yougooooo/T-WEB-501-STG_19",
     detailedDescription: 
     `Plateforme de recherche d'emploi moderne et intuitive.
 
